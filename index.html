@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Feeling Sight Words Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="game-image">
+            <img id="animalImage" src="" alt="Felling" onerror="">
+        </div>
+        <div class="game-options">
+            <button class="option-button" onclick="checkAnswer(0)" id="option0"></button>
+            <button class="option-button" onclick="checkAnswer(1)" id="option1"></button>
+            <button class="option-button" onclick="checkAnswer(2)" id="option2"></button>
+            <button class="option-button" onclick="checkAnswer(3)" id="option3"></button>
+        </div>
+        <div class="game-message" id="gameMessage"></div>
+    </div>
+    <audio id="correctSound" src="correct.mp3" preload="auto"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
