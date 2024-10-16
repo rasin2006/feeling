@@ -1,6 +1,6 @@
 // Define the animals array with their names and image file paths
 const animals = [
-    { name: 'Happy', image: 'happy1.jpg' },
+    { name: 'Happy', image: 'happy3.jpg' },
     { name: 'Sad', image: 'sad1.jpg' },
     { name: 'Angry', image: 'angry1.jpg' },
     { name: 'Scared', image: 'fear.jpg' },
