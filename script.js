@@ -1,18 +1,18 @@
 // Define the animals array with their names and image file paths
 const animals = [
-    { name: 'Happy', image: 'happy.jpg' },
-    { name: 'Sad', image: 'sad.avif' },
-    { name: 'Angry', image: 'angry.jpg' },
+    { name: 'Happy', image: 'happy1.jpg' },
+    { name: 'Sad', image: 'sad1.jpg' },
+    { name: 'Angry', image: 'angry1.jpg' },
     { name: 'Scared', image: 'fear.jpg' },
     { name: 'Disgusted', image: 'disgust.jpg' },
     { name: 'Yummy', image: 'yummy.jpg' },
-    { name: 'Confuse', image: 'confuse.jpg' },
-    { name: 'Excited', image: 'excited.jpg' },
+    { name: 'Confuse', image: 'confuse1.jpg' },
+    { name: 'Excited', image: 'excited1.jpg' },
     { name: 'Embarrassed', image: 'embarrassed.jpg' },
     { name: 'Bored', image: 'bored.jpg' },
     { name: 'Curious', image: 'curious.jpg' },
     { name: 'Relief', image: 'relief.jpg' },
-    { name: 'Shy', image: 'shy.jpg' },
+    { name: 'Shy', image: 'shy1.jpg' },
     { name: 'Disappointed', image: 'disappointed.jpg' },
     { name: 'Nervous', image: 'nervous.jpg' },
     { name: 'Fresh', image: 'fresh.jpeg' },
@@ -28,10 +28,9 @@ const animals = [
     { name: 'Shock', image: 'shock.jpg' },
     { name: 'Hurt', image: 'hurt.jpeg' },
     { name: 'Loved', image: 'loved.jpg' },
-    { name: 'Proud', image: 'proud.jpg' },
-    { name: 'Confused', image: 'confuse.jpeg' },
-    { name: 'Hungry', image: 'hungry.jpg' },
-    { name: 'Silly', image: 'silly.jpg' }
+    { name: 'Proud', image: 'proud1.jpg' },
+    { name: 'Hungry', image: 'hungry1.jpg' },
+    { name: 'Silly', image: 'silly1.jpg' }
 ];
 
 // Variables for tracking the current level and shuffled order of animals
