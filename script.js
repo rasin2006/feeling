@@ -2,6 +2,8 @@
 const animals = [
     { name: 'Happy', image: 'happy3.jpg' },
     { name: 'Sad', image: 'sad1.jpg' },
+    { name: 'Angry', image: 'angry.jpg' },
+    { name: 'Sad', image: 'sad1.jpg' },
     { name: 'Angry', image: 'angry1.jpg' },
     { name: 'Scared', image: 'fear.jpg' },
     { name: 'Disgusted', image: 'disgust.jpg' },
